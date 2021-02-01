@@ -17,4 +17,4 @@
 皆様の声をお聞かせください
 
 ## 動作確認
-zisaku.m5fをダウンロードし、 [こちら](https://flow.m5stack.com/)から実行してみてください
+zisaku.m5fをダウンロードして、 [こちら](https://flow.m5stack.com/)から実行してみてください
